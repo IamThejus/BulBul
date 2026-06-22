@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bulbul 🐦‍⬛
 
 A minimalist book discovery & reading app — pure-black, monochrome, Nothing-OS /
@@ -143,3 +144,6 @@ flutter test                     # unit tests for the data layer
   survive font-size and screen-size changes.
 - **Riverpod 3** unified-`Ref` API; all favorites/progress mutations route
   through notifiers that also subscribe to Hive, keeping every surface in sync.
+=======
+📚 Bulbul — Discover, save, and read books.
+>>>>>>> 78d0edd3df8e259b293db869f95cc19c745d52d8
